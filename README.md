@@ -13,3 +13,7 @@
 
 ## `http://localhost:3000/users`:triangular_flag_on_post::triangular_flag_on_post:  ## for return object JSON
 [![1.png](https://i.postimg.cc/5NkfpGR5/1.png)](https://postimg.cc/kBKrgj9D)
+
+## SOFTWARE POSTMAN METHOD GET /users return JSON
+[![2.png](https://i.postimg.cc/BQjrZvmD/2.png)](https://postimg.cc/nCtR0nbc)
+
