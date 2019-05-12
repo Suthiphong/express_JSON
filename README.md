@@ -12,4 +12,4 @@
 ## `http://localhost:3000/` :triangular_flag_on_post::triangular_flag_on_post: ## for response website show Hello
 
 ## `http://localhost:3000/users`:triangular_flag_on_post::triangular_flag_on_post:  ## for return object JSON
-![Example TDD](./1.png?raw=true)
+[![1.png](https://i.postimg.cc/5NkfpGR5/1.png)](https://postimg.cc/kBKrgj9D)
